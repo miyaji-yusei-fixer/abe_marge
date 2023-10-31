@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "serve": "serve",
+    "build": "build ./daxigua"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "serve": "^14.2.1"
+  }
+}
